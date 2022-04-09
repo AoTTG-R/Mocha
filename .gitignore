@@ -1,0 +1,13 @@
+# Miscellaneous
+Mocha*/
+
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]ib/
+*.sln
+*.pdb
+
+# VS Code
+.vscode/
