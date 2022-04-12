@@ -1,2 +1,2 @@
-# mocha
-AoTTG-R's modified version of AoTTG v.01042015
+# Mocha
+A modified version of AoTTG(01042015) meant to improve on what Feng provided.
